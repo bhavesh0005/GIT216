@@ -2,3 +2,9 @@ bhavesh
 ait
 216
 bangalore
+<<<<<<< Updated upstream
+=======
+stash message
+stash 2
+>>>>>>> Stashed changes
+cse
