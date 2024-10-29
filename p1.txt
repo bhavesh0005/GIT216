@@ -7,4 +7,4 @@ bangalore
 stash message
 stash 2
 >>>>>>> Stashed changes
-cse
+cseded
