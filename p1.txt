@@ -3,6 +3,10 @@ ait
 216
 bangalore
 <<<<<<< HEAD
+<<<<<<< HEAD
 stash message
 =======
 >>>>>>> 2c58097 (new line added)
+=======
+stash message
+>>>>>>> f7d9286 (file added)
