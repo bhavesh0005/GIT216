@@ -5,8 +5,12 @@ bangalore
 <<<<<<< HEAD
 <<<<<<< HEAD
 stash message
+<<<<<<< Updated upstream
 =======
 >>>>>>> 2c58097 (new line added)
 =======
 stash message
 >>>>>>> f7d9286 (file added)
+=======
+stash 2
+>>>>>>> Stashed changes
